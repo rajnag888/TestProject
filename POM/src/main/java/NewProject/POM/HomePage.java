@@ -1,5 +1,8 @@
 package NewProject.POM;
 
 public class HomePage {
-system.out.println("test");
+	public void Test()
+	{
+	System.out.println("Hello");
+	}
 }
